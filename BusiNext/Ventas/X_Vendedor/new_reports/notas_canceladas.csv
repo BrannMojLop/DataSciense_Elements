@@ -1,0 +1,13 @@
+index,POS-Cliente,name,Vendedor Asignado,Código,Sucursal,F/h Cierre,F/h Cancelacion,Web,Tipo de venta,Descuento,Piezas,Devolucion,Efectivo,Tr0v1,Tarjetas,Transferencias,Depósitos,Total Nota,Total Venta,Cancelada por,Cobrada por,Comisionada por
+6378,<NULL>,<NULL>,Gerardo,NV13-0522-715,Boutique Valle Dorado,2022-05-12 19:18:09,2022-05-12 19:30:36,False,Descuento por promoción,PROMO40,1,0.0,0.0,0.0,114.0,0.0,0.0,114.0,114.00,Gerardo,Gerardo,Gerardo
+6378,<NULL>,<NULL>,Gerardo,NV13-0522-716,Boutique Valle Dorado,2022-05-12 19:23:41,2022-05-12 19:29:49,False,Descuento por promoción,PROMO40,1,0.0,147.0,0.0,0.0,0.0,0.0,147.0,147.00,Gerardo,Gerardo,Gerardo
+6376,<NULL>,<NULL>,Brian Ulises,NV7-0522-674,Sucursal Guadalajara,2022-05-12 12:45:30,2022-05-12 18:49:39,False,Descuento por pieza,<NULL>,8,0.0,522.5,0.0,0.0,0.0,0.0,522.5,522.50,Brian Ulises,Brian Ulises,Brian Ulises
+1,1,CLIENTE MOSTRADOR,-,NV13-0522-703,Boutique Valle Dorado,2022-05-12 16:23:26,2022-05-12 16:34:00,False,Descuento por promoción,PROMO40,6,0.0,274.8,0.0,0.0,0.0,0.0,274.8,274.80,Gerardo,Gerardo,Gerardo
+1,1,CLIENTE MOSTRADOR,-,NV13-0522-685,Boutique Valle Dorado,2022-05-12 13:56:18,2022-05-12 16:33:33,False,Descuento por pieza,<NULL>,1,0.0,845.0,0.0,0.0,0.0,0.0,845.0,845.00,Gerardo,Gerardo,Gerardo
+1,1,CLIENTE MOSTRADOR,-,NV12-0522-619,Boutique Coapa,2022-05-10 15:40:30,2022-05-10 16:38:34,False,Descuento por pieza,<NULL>,1,0.0,75.0,0.0,0.0,0.0,0.0,75.0,75.00,Ricardo,Jocelyn,Jocelyn
+102,2634,Graciela,Diana Aidee,NV3-0522-499,Sucursal Palma 30,2022-05-09 12:54:06,2022-05-09 18:56:40,False,Descuento de cliente,<NULL>,11,0.0,1331.5,0.0,0.0,0.0,0.0,1331.5,1331.50,Alejandra ,Diana Aidee,Diana Aidee
+1,1,CLIENTE MOSTRADOR,-,NV13-0522-209,Boutique Valle Dorado,2022-05-05 13:23:25,2022-05-05 19:25:59,False,Descuento por pieza,<NULL>,4,0.0,422.1,0.0,0.0,0.0,0.0,422.1,422.10,Gerardo,Gerardo,Gerardo
+143,295,Estela,Patricia,NV4-0522-187,Sucursal Madero 61 ,2022-05-04 18:16:09,2022-05-04 18:46:45,False,Descuento de cliente,<NULL>,19,0.0,2408.0,0.0,0.0,0.0,0.0,2408.0,2408.00,Patricia,Patricia,Patricia
+123,8261,cesar,Brian Ulises,NV9-0522-82,Tienda Fábrica GDL,2022-05-03 11:31:02,2022-05-03 18:52:55,False,Descuento por pieza,<NULL>,1,0.0,0.0,35.0,0.0,0.0,0.0,35.0,35.00,Brian Ulises,Brian Ulises,Brian Ulises
+5325,16135,MARIA LAURA CINCO FIMBRES,Karol Viridiana ,NV7-0522-25,Sucursal Guadalajara,2022-05-02 11:53:25,2022-05-02 18:50:47,False,Descuento de cliente,<NULL>,78,0.0,6474.0,0.0,0.0,0.0,0.0,6474.0,6474.00,Brian Ulises,Karol Viridiana ,Karol Viridiana 
+1,1,CLIENTE MOSTRADOR,-,NV12-0522-11,Boutique Coapa,2022-05-01 16:58:50,2022-05-01 17:02:18,False,Descuento por pieza,<NULL>,4,0.0,282.8,0.0,0.0,0.0,0.0,282.8,282.80,Iván,Iván,Iván
